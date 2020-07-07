@@ -2,7 +2,7 @@
   "name": "portofolio-site",
   "version": "0.1.0",
   "private": true,
-    "homepage":"https://tchoumi14.github.io/My_React_Project/",
+  "homepage":"https://tchoumi14.github.io/My_React_Project/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
